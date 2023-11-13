@@ -4,7 +4,7 @@
 
 - [Link para o Ambiente de Teste](https://drive.google.com/drive/folders/1ASGc1wT-94qwvc27JtY-cRQ10sz_FwTp?usp=sharing): Acesse aqui o ambiente de teste do sistema.
 
-- [Vídeo de Demonstração]([#](https://drive.google.com/file/d/1KtN3ZrXJnAQEiOI9AELj4D8q3LyuXdGz/view?usp=sharing)): [link do vídeo]
+- [Vídeo de Demonstração](https://drive.google.com/file/d/1KtN3ZrXJnAQEiOI9AELj4D8q3LyuXdGz/view?usp=sharing): Acesso ao link do vídeo
 
 - [Repositório no GitHub](https://github.com/Ele-Arcoverde/project7_IBM_python): Repositório no GitHub contendo o código-fonte do projeto.
 
