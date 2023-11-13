@@ -56,7 +56,7 @@ O código está estruturado da seguinte forma:
 -**Sobre Elaboração do Projeto**: O projeto foi elaborado a partir de técnicas de *Design Thinking* para resolução de problemas, assim elaborei a Estrutura do Código, acima. O código foi desenvolvido no ambiente de teste:*Google Colab*, criei um Notebook, salvei-o no meu drive do *Google Drive*, inseri linhas de código em phyton no Notebook, compondo seções e testando até finalizar a estrutura do código e concluir que os testes estavam responsivos ao Projeto 7. Criei um novo repositório em meu *GitHub* e inseri este arquivo Readme, voltei ao Google Colab e salvei uma cópia do Notebook no mesmo repósitório. Para a gravação do vídeo de demonstração utilizei o *ClipChamp*, optei por gravar sem audio as janelas do meu navegador, sinalizei com as setas do mouse, enfatizando algumas partes, que julguei mais interessantes.
 
 -**Agradecimentos**: Meu muito obrigada vai para a Mastertech e para a IBM-Brasil, por meio dessa parceria, me permitiram adquirir novos conhecimentos e conseguir realizar este pequeno projeto de grande valor. Parabéns a IBM por sua Skills Build, excelente plataforma!!!
-Agradecimento especial a todas as pessoas que participaram comigo dessa jornada, meus colegas de turma, aos colaboradores, tanto da IBM como da Mastertech, a minha dedicada mentora Natália Valentin e aos incríveis Fernando Rich, Camila Achutti, Cristiana Rodrigues por seus Webinars.
+Agradecimento especial a todas as pessoas que participaram comigo dessa jornada, meus colegas de turma, aos colaboradores, tanto da IBM como da Mastertech, a minha dedicada mentora Natália Valentin e aos incríveis Fernando Rych, Camila Achutti, Cristiana Rodrigues por seus Webinars.
 
 ## Contribuição
 
