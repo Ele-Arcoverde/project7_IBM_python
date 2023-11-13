@@ -21,15 +21,15 @@ O objetivo deste código é criar um sistema de inscrição para um evento que a
 
 ### Cadastro de Participantes
 
-- Os usuários fornecem informações pessoais, incluindo nome, idade, confirmação de residência em SP e disponibilidade de horário.
+- Os usuários fornecem informações pessoais, incluindo nome, idade, confirmação de residência em SP e de disponibilidade de horário.
 
 ### Verificação de Condições
 
-- A aplicação verifica se o usuário atende a todas as condições, como residência em SP, maioridade e disponibilidade no horário do evento, também verifica se ainda existem vagas disponíveis para o evento.
+- A aplicação verifica se o usuário atende a todas as condições, como residência em SP, maioridade e disponibilidade no horário do evento, também verifica se há vagas disponíveis para o evento.
 
 ### Feedback aos Participantes
 
-- A aplicação fornece feedback aos participantes, informando se a inscrição foi validada, e, em caso contrário, fornece mensagens de advertência relacionadas às condições não atendidas.
+- A aplicação fornece feedback aos participantes, informando se a inscrição foi validada, e, em caso contrário, fornece mensagens relacionadas às condições não atendidas.
 
 ## Estrutura do Código
 
@@ -41,11 +41,15 @@ O código está estruturado da seguinte forma:
 
 - **Verificação de Vagas Disponíveis**: Verifica se ainda há vagas disponíveis.
 
-- **Feedback aos Participantes**: Fornece mensagens de inscrição validada ou mensagens de advertência.
+- **Feedback aos Participantes**: Fornece mensagens de inscrição validada ou mensagens relacionadas ao motivo pelo qual não cumpriu as condições preestabelecidas para participar do evento.
 
 - **Encerramento de Inscrições**: Informa se as inscrições estão encerradas quando todas as vagas foram preenchidas.
 
 - **Lista de Participantes**: Exibe a lista de participantes inscritos, se houver.
+
+## Comentários
+
+Comentários estão inclusos em toda a estrutura do código, explicando cada parte.
 
 ## Contribuição
 
